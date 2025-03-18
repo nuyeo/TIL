@@ -13,12 +13,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Add safe directory for Git
-        run: git config --global --add safe.directory /github/workspace
-
+          
       - name: Autoformat README
-        uses: cflynn07/github-action-til-autoformat-readme@1.2.1
+        uses: cflynn07/github-action-til-autoformat-readme@1.2.4
         with:
           description: |
             This repository is a daily record of what I have learned.
