@@ -6,12 +6,13 @@ I document insights from books, lectures, and official documentation in a concis
 "Small steps every day lead to big results." 🚀
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [OSI 7계층](Network/7_OSI_layers.md) - 22220 Mar 22:55
 - [프로토콜](Network/Protocol.md) - 17170 Mar 23:21
 
 ### Categories
@@ -19,6 +20,7 @@ _1 TILs and counting..._
 - [Network](#network)
 
 ### [Network](#network)
+- [OSI 7계층](Network/7_OSI_layers.md)
 - [프로토콜](Network/Protocol.md)
 
 
