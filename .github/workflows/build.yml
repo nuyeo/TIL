@@ -22,4 +22,4 @@ jobs:
             I document insights from books, lectures, and official documentation in a concise and structured format using Markdown.
             "Small steps every day lead to big results." 🚀
           list_most_recent: 2
-          date_format: "2020 Jan 15:04"
+          date_format: "Jan 2, 2006 at 3:04 PM"
