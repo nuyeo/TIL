@@ -12,13 +12,13 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [## 📌 프로토콜 (Protocol)](Network/Protocol.md) - 17170 Mar 23:21
+- [프로토콜](Network/Protocol.md) - 17170 Mar 23:21
 
 ### Categories
 
 - [Network](#network)
 
 ### [Network](#network)
-- [## 📌 프로토콜 (Protocol)](Network/Protocol.md)
+- [프로토콜](Network/Protocol.md)
 
 
