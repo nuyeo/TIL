@@ -6,14 +6,14 @@ I document insights from books, lectures, and official documentation in a concis
 "Small steps every day lead to big results." 🚀
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [연결리스트](DataStructure/LinkedList.md) - Mar 24, 2025 at 7:57 AM
 - [스택](DataStructure/Stack.md) - Mar 24, 2025 at 7:02 AM
-- [배열](DataStructure/Array.md) - Mar 24, 2025 at 6:08 AM
 
 ### Categories
 
@@ -22,6 +22,7 @@ _4 TILs and counting..._
 
 ### [DataStructure](#datastructure)
 - [배열](DataStructure/Array.md)
+- [연결리스트](DataStructure/LinkedList.md)
 - [스택](DataStructure/Stack.md)
 
 ### [Network](#network)
