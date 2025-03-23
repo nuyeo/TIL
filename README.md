@@ -6,18 +6,22 @@ I document insights from books, lectures, and official documentation in a concis
 "Small steps every day lead to big results." 🚀
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [배열](DataStructure/Array.md) - Mar 24, 2025 at 6:08 AM
 - [OSI 7계층](Network/7_OSI_layers.md) - Mar 22, 2025 at 10:55 PM
-- [프로토콜](Network/Protocol.md) - Mar 17, 2025 at 11:21 PM
 
 ### Categories
 
+- [DataStructure](#datastructure)
 - [Network](#network)
+
+### [DataStructure](#datastructure)
+- [배열](DataStructure/Array.md)
 
 ### [Network](#network)
 - [OSI 7계층](Network/7_OSI_layers.md)
